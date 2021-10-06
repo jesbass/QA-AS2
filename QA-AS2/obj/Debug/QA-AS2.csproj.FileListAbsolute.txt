@@ -1,0 +1,7 @@
+C:\Users\jescuevas\source\repos\QA-AS2\QA-AS2\bin\Debug\QA-AS2.exe.config
+C:\Users\jescuevas\source\repos\QA-AS2\QA-AS2\bin\Debug\QA-AS2.exe
+C:\Users\jescuevas\source\repos\QA-AS2\QA-AS2\bin\Debug\QA-AS2.pdb
+C:\Users\jescuevas\source\repos\QA-AS2\QA-AS2\obj\Debug\QA-AS2.csproj.AssemblyReference.cache
+C:\Users\jescuevas\source\repos\QA-AS2\QA-AS2\obj\Debug\QA-AS2.csproj.CoreCompileInputs.cache
+C:\Users\jescuevas\source\repos\QA-AS2\QA-AS2\obj\Debug\QA-AS2.exe
+C:\Users\jescuevas\source\repos\QA-AS2\QA-AS2\obj\Debug\QA-AS2.pdb

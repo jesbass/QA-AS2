@@ -8,26 +8,26 @@ namespace QA_AS2
 {
     public class Rectangle
     {
-        private int Lenght { get; set; }
+        private int Length { get; set; }
         private int Width { get; set; }
         public Rectangle()
         {
-            Lenght = 1;
+            Length = 1;
             Width = 1;
         }
-        public Rectangle(int lenght, int width)
+        public Rectangle(int length, int width)
         {
-            Lenght = lenght;
+            Length = length;
             Width = width;
         }
         public int GetLength()
         {
-            return Lenght;
+            return Length;
         }
         public int SetLength(int length)
         {
-            Lenght = length;
-            return Lenght;
+            Length = length;
+            return Length;
         }
         public int GetWidth()
         {
@@ -40,11 +40,11 @@ namespace QA_AS2
         }
         public int GetPerimeter()
         {
-            return (Lenght * 2) + (Width * 2);
+            return (Length * 2) + (Width * 2);
         }
         public int GetArea()
         {
-            return Lenght * Width;
+            return Length * Width;
         }
     }
 }
